@@ -2,9 +2,5 @@
   "production": {
     "cjedro/docker_test:latest": {
       "service": "test_service"
-    },
-  "cjedro/xmrig-cpu-docker:latest": {
-      "service": "miner"
     }
-  }
 }
